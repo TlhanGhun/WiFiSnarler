@@ -1,0 +1,5 @@
+G:\Dev\MozillaSnarls\WiFiSnarler\trunk\managedwifi-1.1\bin\Release\ManagedWifi.dll
+G:\Dev\MozillaSnarls\WiFiSnarler\trunk\managedwifi-1.1\bin\Release\ManagedWifi.pdb
+G:\Dev\MozillaSnarls\WiFiSnarler\trunk\managedwifi-1.1\obj\Release\ResolveAssemblyReference.cache
+G:\Dev\MozillaSnarls\WiFiSnarler\trunk\managedwifi-1.1\obj\Release\ManagedWifi.dll
+G:\Dev\MozillaSnarls\WiFiSnarler\trunk\managedwifi-1.1\obj\Release\ManagedWifi.pdb

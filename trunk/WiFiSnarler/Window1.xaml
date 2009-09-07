@@ -1,0 +1,9 @@
+﻿<Window x:Class="WiFiSnarler.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="WiFiSnarler" Height="300" Width="300">
+    <Grid>
+        <Label Height="28" Margin="124,96,34,0" Name="label1" VerticalAlignment="Top">Running...</Label>
+        <Button Height="23" Margin="101,0,101,90" Name="scanNow" VerticalAlignment="Bottom" Click="scanNow_Click">Scan now</Button>
+    </Grid>
+</Window>
